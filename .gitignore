@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# data files are archived separately
+*.nc
+*.tar
+*.tif
+/inputs/
+notebooks/data/validation/
