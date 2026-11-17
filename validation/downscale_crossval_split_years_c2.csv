@@ -1,0 +1,5 @@
+input,kind,w,F,F_random,F_edge,F_interior,F_open,F_forest,F_random_open,acc,sca_bias,n_scenes
+ideal,emp_smooth,0.0,0.718,0.647,0.71,0.735,0.781,0.705,0.596,,,462
+ideal,smooth,0.5,0.69,0.647,0.683,0.705,0.719,0.682,0.596,,,462
+modis,emp_smooth,0.0,0.631,0.649,0.63,0.637,0.737,0.62,,0.637,0.007,381
+modis,smooth,0.5,0.615,0.649,0.615,0.617,0.647,0.61,,0.623,0.002,381
